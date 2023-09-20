@@ -1,6 +1,7 @@
 // C++ program to implement linear
 // search in unsorted array
 // Time Complexity: O(N) Space Complexity O(1)
+
 #include <bits/stdc++.h>
 using namespace std;
 

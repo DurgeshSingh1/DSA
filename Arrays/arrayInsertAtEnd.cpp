@@ -1,6 +1,7 @@
 // C program to implement insert
 // operation in an unsorted array.
 // Time Complexity: O(1) Space Complexity: O(1)
+
 #include <stdio.h>
 
 // Inserts a key in arr[] of given capacity.
