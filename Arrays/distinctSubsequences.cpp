@@ -52,6 +52,4 @@ int main()
 	cout << sn.size();
 	sn.clear();
 	return 0;
-
-	// This code is contributed by Kishan Mishra
 }
